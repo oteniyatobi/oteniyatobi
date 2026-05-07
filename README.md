@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1><code>&lt;oteniyatobi /&gt;</code></h1>
-<p>software engineer &amp; ui designer &nbsp;·&nbsp; kigali, rwanda 🇷🇼</p>
+<p>software engineer &nbsp;·&nbsp; ai enthusiast &nbsp;·&nbsp; kigali, rwanda 🇷🇼</p>
 
 <br/>
 
