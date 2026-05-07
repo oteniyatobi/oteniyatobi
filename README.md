@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1><code>&lt;oteniyatobi /&gt;</code></h1>
-<p>software engineer &nbsp;·&nbsp; ai enthusiast &nbsp;·&nbsp; kigali, rwanda 🇷🇼</p>
+<p>software engineer &nbsp;·&nbsp; ai enthusiast &nbsp;·&nbsp; Kigali, Rwanda 🇷🇼</p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=500&height=40&lines=i+engineer+systems.+i+design+experiences.+i+ship+both." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&multiline=false&width=600&height=40&lines=i+engineer+systems.+i+design+experiences.+i+ship+both.;Nigerian+software+engineer+based+in+Kigali%2C+Rwanda.;building+ai-powered+tools+that+look+good+and+work+better.;always+learning.+always+shipping." alt="typing" />
 
 <br/>
 
@@ -21,10 +21,11 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oteniyatobi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
 
-i build ai-powered tools and systems for africa —
-and i care deeply about how they look and feel.
+hey, i'm Tobi. a Nigerian software engineer currently based in Kigali, Rwanda, where i'm pursuing my BSc in software engineering at the African Leadership University.
 
-📍 kigali, rwanda &nbsp;·&nbsp; 🎓 alu rwanda &nbsp;·&nbsp; 🛤 alx africa
+i build ai-powered tools and systems — from real-time driver safety detection to startup analyzers — and i care just as much about how things look as how they work.
+
+outside of building, i'm fascinated by the intersection of technology, design, and the future. always learning, always shipping.
 
 <br clear="right"/>
 
@@ -75,14 +76,15 @@ reusable cli · engagement pattern extraction
 </td>
 <td width="50%" valign="top">
 
-**⛽ gas level monitoring app**
+**💊 healthcare medication management system**
 
-frontend safety tracker for african households.
-built with usability and real impact in mind.
+cli app for pharmacy inventory, patient prescriptions,
+and dose reminders. built for pharmacists and patients.
 
-![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/-CLI-0d0d0d?style=flat-square)
 
 </td>
 </tr>
