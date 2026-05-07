@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d1117&height=220&section=header&text=oteniyatobi&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=software%20engineer%20%26%20ui%20designer%20%7C%20kigali%2C%20rwanda%20%F0%9F%87%B7%F0%9F%87%BC&descSize=14&descAlignY=58&descColor=aaaaaa)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&multiline=true&width=500&height=50&lines=i+engineer+systems.+i+design+experiences.+i+ship+both." alt="typing" />
+<h1><code>&lt;oteniyatobi /&gt;</code></h1>
+<p>software engineer &amp; ui designer &nbsp;·&nbsp; kigali, rwanda 🇷🇼</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=500&height=40&lines=i+engineer+systems.+i+design+experiences.+i+ship+both." alt="typing" />
 
 <br/>
 
@@ -18,15 +21,10 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oteniyatobi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
 
-### `<oteniyatobi />`
-
-software engineer who designs.
-designer who engineers.
-
 i build ai-powered tools and systems for africa —
 and i care deeply about how they look and feel.
 
-📍 kigali, rwanda · 🎓 alu rwanda · 🛤 alx africa
+📍 kigali, rwanda &nbsp;·&nbsp; 🎓 alu rwanda &nbsp;·&nbsp; 🛤 alx africa
 
 <br clear="right"/>
 
@@ -104,9 +102,8 @@ built with usability and real impact in mind.
 
 ```
 ◦  bsc software engineering  @  african leadership university, rwanda
-◦  alx africa  —  full-stack  ·  ai for developers  ·  cybersecurity
+◦  alx africa  —  pathway programme  ·  ai for developers
+              —  ai career essentials  ·  cybersecurity
 ◦  facilitator, alx pathway program
 ◦  building for africa. shipping for the world.
 ```
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d0d0d&height=100&section=footer)
