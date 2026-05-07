@@ -1,72 +1,57 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180§ion=header&text=oteniyatobi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Kigali%2C%20Rwanda&descAlignY=58&descSize=15)
+![](https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=1&section=header)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oteniyatobi.vercel.app-black?style=flat-square&logo=vercel)](https://oteniyatobi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oteniya-oluwatobi-jeremiah-a9b4a433a)
-[![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=flat-square&logo=gmail)](mailto:oluwatobijeremiahoteniya@gmail.com)
+<h1 align="center">oteniyatobi</h1>
+<p align="center">software engineer · kigali, rwanda</p>
 
----
-
-> Software engineer building AI-powered tools and systems for Africa.
-> I don't just write code — I ship things that matter.
-
----
-
-## 🚀 shipped
-
-### 🏆 [Driver Watch](https://github.com/oteniyatobi/drive--watch)   ![](https://img.shields.io/badge/Top%207-770%2B%20Teams-FFD700?style=flat-square)
-Real-time AI fatigue & distraction detection for African roads.
-In-browser ML — no hardware, no server. Emergency SOS, instant alerts.
-
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TF](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<p align="center">
+<a href="https://oteniyatobi.vercel.app">portfolio</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/oteniya-oluwatobi-jeremiah-a9b4a433a">linkedin</a> &nbsp;·&nbsp;
+<a href="mailto:oluwatobijeremiahoteniya@gmail.com">email</a>
+</p>
 
 ---
 
-### ⚡ [RAW](https://medo.dev/projects/app-b9xkn5mhxr0h/preview)   ![](https://img.shields.io/badge/Build%20with%20MeDo-4500%2B%20Participants-6C63FF?style=flat-square)
-Drop a rough idea → full startup blueprint in 60 seconds.
-Competitor map · kill shots · first customer · African market angle.
+i build systems that solve real problems in africa —
+ai-powered tools, safety infrastructure, products that ship.
 
-![Claude](https://img.shields.io/badge/-Claude%20API-CC785C?style=flat-square)
-![MeDo](https://img.shields.io/badge/-MeDo-000000?style=flat-square)
+currently: bsc software engineering @ african leadership university, rwanda.
 
 ---
 
-### 🐦 [Social Media Feed Analyzer](https://github.com/oteniyatobi)
-Python + Bash pipeline on real Twitter/Kaggle datasets. Reusable CLI scripts.
+### work
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**[driver watch](https://github.com/oteniyatobi/drive--watch)**
+real-time fatigue and distraction detection for african roads.
+tensorflow.js in-browser ml · no hardware · emergency sos · instant alerts
+`— top 7 / 770+ teams`
 
----
+**[raw](https://medo.dev/projects/app-b9xkn5mhxr0h/preview)**
+ai startup analyzer. drop a rough idea, get a full blueprint in 60 seconds.
+competitor map · kill shots · first customer · african market angle
+`— build with medo · 4,500+ participants`
 
-### ⛽ Gas Level Monitoring App
-Frontend safety tracker for household gas cylinders, built for African homes.
+**social media feed analyzer**
+python + bash pipeline on real twitter/kaggle datasets.
+reusable cli scripts · engagement pattern extraction
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## 🛠 stack
-
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+**gas level monitoring app**
+frontend safety tracker for household gas cylinders, built for african homes.
 
 ---
 
-## 📌 about
+### stack
 
-- 🎓 BSc Software Engineering @ African Leadership University, Rwanda
-- 🛤 ALX Africa — Full-Stack · AI for Developers · Cybersecurity
-- 🤝 Facilitator, ALX Pathway Program
-- 🌍 Building for Africa, shipping for the world
+```
+languages   javascript  typescript  python  shell
+frontend    react  html  css
+ai / ml     tensorflow.js  claude api  prompt engineering
+tools       git  github  vercel
+```
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100§ion=footer)
+### background
+
+- alx africa — full-stack · ai for developers · cybersecurity
+- facilitator, alx pathway program
+- building for africa, shipping for the world
