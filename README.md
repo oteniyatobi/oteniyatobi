@@ -9,7 +9,7 @@
 
 <br/>
 
-[![portfolio](https://img.shields.io/badge/◈_portfolio-oteniyatobi.vercel.app-0d0d0d?style=flat-square&logoColor=white)](https://oteniyatobi.vercel.app)
+[![portfolio](https://img.shields.io/badge/◈_portfolio-thetobi.tech-0d0d0d?style=flat-square&logoColor=white)](https://thetobi.tech)
 [![linkedin](https://img.shields.io/badge/◈_linkedin-connect-0A66C2?style=flat-square)](https://linkedin.com/in/oteniya-oluwatobi-jeremiah-a9b4a433a)
 [![email](https://img.shields.io/badge/◈_email-say_hi-c0392b?style=flat-square)](mailto:oluwatobijeremiahoteniya@gmail.com)
 
